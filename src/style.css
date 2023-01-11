@@ -1,0 +1,27 @@
+body {
+    background-color: #443f3f;
+}
+
+/* Header */
+
+#Header h1{
+    text-align: center;
+    margin: 10px auto 10px auto;
+    font-size: 130px;
+    color: rgb(18, 214, 214);
+}
+
+
+/* Content */
+
+#Content table{
+    text-align: center;
+    margin: auto;
+}
+
+#Content td{
+    padding: 40px;
+    font-size: 20px;
+    font-style: italic;
+    color: rgb(18, 214, 214);
+}
