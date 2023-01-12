@@ -25,3 +25,19 @@ body {
     font-style: italic;
     color: rgb(18, 214, 214);
 }
+
+.parent{
+    display: flex;
+    justify-content: center;
+    align-items:center
+}
+
+#button{
+    width: 100px;
+    height: 50px;
+    border-radius:18%;
+    background-color: rgb(18, 214, 214);
+    font-weight: bolder;
+    font-size: larger;
+    font-style: italic;
+}
